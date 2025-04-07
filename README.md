@@ -46,7 +46,8 @@ it through Chrome's "Load Unpacked" feature, offering flexibility and control.
 
 1.  **Flavor 1: Taro Latte**
 
-![Screenshot (36)](https://github.com/user-attachments/assets/9e37b6d0-b67f-4cce-b465-f43db7633684)
+
+![Adobe Express - file](https://github.com/user-attachments/assets/2bfad729-c39c-429f-b874-d056538789be)
 
 
 
