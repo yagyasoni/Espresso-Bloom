@@ -1,4 +1,4 @@
-# Chrome Extension: Flavorful Web Enhancements
+# Chrome Extension: Flavorful Web Enhancements (๑>◡<๑)🥤⚫⚫⚫
 
 This repository contains a Chrome extension that offers a variety of web enhancement "flavors." Each flavor provides specific functionalities, accessible either 
 through the extension's interface or by directly downloading and utilizing the corresponding flavor's files.
@@ -46,53 +46,41 @@ it through Chrome's "Load Unpacked" feature, offering flexibility and control.
 ## Available Flavors:
 
 
-1.  **Taro Latte**                                                                                     
+## Taro Latte                                                                                     
 
 
 ![Screenshot (43)](https://github.com/user-attachments/assets/9769ba9c-852d-40c6-8551-3606eb37cdf5)          
  
 
 
-
-
-
-
-
-2.  **Mocha Bliss**
+## Mocha Bliss
 
 
 ![Screenshot (44)](https://github.com/user-attachments/assets/44373a44-3c34-44f9-8b41-9e1bb08f5d1e)
 
 
 
-
-
-
-    
-
-3.  **Matcha Espresso**
+## Matcha Espresso
 
 ![Screenshot (45)](https://github.com/user-attachments/assets/b31e760f-12ae-4324-b117-9b502c499f3e)
 
 
 
-
-
-
-
-4.  **Caramel Macchiato**
+## Caramel Macchiato
 
 ![Screenshot (46)](https://github.com/user-attachments/assets/6aeaac66-ac48-4f23-a45d-7ebff9c8ea04)
 
 
 
 
-
-
-
-5.  **Brown Sugar**
+## Brown Sugar
 
 ![Screenshot (47)](https://github.com/user-attachments/assets/8faef166-ee3b-4e7a-a29e-d460ae0824a6)
+
+## Credits
+Created by Yagya Soni for Google Summer of Code (GSoC) 2025 under Chromium.
+
+
 
 
    
