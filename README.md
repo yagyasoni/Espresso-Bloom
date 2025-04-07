@@ -45,7 +45,9 @@ it through Chrome's "Load Unpacked" feature, offering flexibility and control.
 ## Available Flavors:
 
 1.  **Flavor 1: Taro Latte**
-![Screenshot (36)](https://github.com/user-attachments/assets/c5a41be9-bcb9-4ff3-8286-f73e5113541a)
+
+![Screenshot (36)](https://github.com/user-attachments/assets/9e37b6d0-b67f-4cce-b465-f43db7633684)
+
 
 
 2.  **Flavor 2: Mocha Bliss**
