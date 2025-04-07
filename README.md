@@ -44,10 +44,11 @@ it through Chrome's "Load Unpacked" feature, offering flexibility and control.
 
 ## Available Flavors:
 
-1.  **Flavor 1: Taro Latte**
+1.  **Flavor 1: Taro Latte**                                                                                     2.  **Flavor 2: Mocha Bliss**
 
 
-![Adobe Express - file](https://github.com/user-attachments/assets/2bfad729-c39c-429f-b874-d056538789be)
+![Screenshot (43)](https://github.com/user-attachments/assets/9769ba9c-852d-40c6-8551-3606eb37cdf5)              ![Screenshot (44)](https://github.com/user-attachments/assets/ed5937b0-3ec6-498a-acd6-db229a181064)
+ 
 
 
 
