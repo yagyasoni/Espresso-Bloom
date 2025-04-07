@@ -1,0 +1,72 @@
+{
+  "manifest_version": 3,
+  "name": "Caramel Macchiato Boba Boba Theme",
+  "version": "1.0",
+  "description": "Layered caramel and espresso",
+  "theme": {
+    "colors": {
+      "frame": [
+        198,
+        142,
+        23
+      ],
+      "toolbar": [
+        51,
+        47,
+        44
+      ],
+      "ntp_background": [
+        237,
+        228,
+        217
+      ],
+      "ntp_text": [
+        51,
+        47,
+        44
+      ],
+      "ntp_link": [
+        217,
+        179,
+        130
+      ],
+      "button_background": [
+        217,
+        179,
+        130
+      ],
+      "tab_text": [
+        237,
+        228,
+        217
+      ],
+      "tab_background_text": [
+        51,
+        47,
+        44
+      ],
+      "bookmark_text": [
+        237,
+        228,
+        217
+      ]
+    },
+    "tints": {
+      "buttons": [
+        0.33,
+        0.5,
+        0.47
+      ],
+      "frame": [
+        0.33,
+        0.5,
+        0.5
+      ],
+      "background_tab": [
+        0.33,
+        0.5,
+        0.75
+      ]
+    }
+  }
+}

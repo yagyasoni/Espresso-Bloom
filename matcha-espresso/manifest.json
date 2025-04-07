@@ -1,0 +1,72 @@
+{
+  "manifest_version": 3,
+  "name": "Matcha Boba Espresso Boba Theme",
+  "version": "1.0",
+  "description": "Vibrant matcha green with espresso accents",
+  "theme": {
+    "colors": {
+      "frame": [
+        123,
+        160,
+        91
+      ],
+      "toolbar": [
+        74,
+        44,
+        31
+      ],
+      "ntp_background": [
+        242,
+        237,
+        228
+      ],
+      "ntp_text": [
+        74,
+        44,
+        31
+      ],
+      "ntp_link": [
+        169,
+        169,
+        169
+      ],
+      "button_background": [
+        169,
+        169,
+        169
+      ],
+      "tab_text": [
+        242,
+        237,
+        228
+      ],
+      "tab_background_text": [
+        74,
+        44,
+        31
+      ],
+      "bookmark_text": [
+        242,
+        237,
+        228
+      ]
+    },
+    "tints": {
+      "buttons": [
+        0.33,
+        0.5,
+        0.47
+      ],
+      "frame": [
+        0.33,
+        0.5,
+        0.5
+      ],
+      "background_tab": [
+        0.33,
+        0.5,
+        0.75
+      ]
+    }
+  }
+}

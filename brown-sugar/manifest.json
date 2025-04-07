@@ -1,0 +1,72 @@
+{
+  "manifest_version": 3,
+  "name": "Brown Sugar Boba Coffee Boba Theme",
+  "version": "1.0",
+  "description": "Rich brown sugar and caramel tones",
+  "theme": {
+    "colors": {
+      "frame": [
+        138,
+        85,
+        34
+      ],
+      "toolbar": [
+        63,
+        42,
+        29
+      ],
+      "ntp_background": [
+        232,
+        217,
+        194
+      ],
+      "ntp_text": [
+        63,
+        42,
+        29
+      ],
+      "ntp_link": [
+        31,
+        31,
+        31
+      ],
+      "button_background": [
+        31,
+        31,
+        31
+      ],
+      "tab_text": [
+        232,
+        217,
+        194
+      ],
+      "tab_background_text": [
+        63,
+        42,
+        29
+      ],
+      "bookmark_text": [
+        232,
+        217,
+        194
+      ]
+    },
+    "tints": {
+      "buttons": [
+        0.33,
+        0.5,
+        0.47
+      ],
+      "frame": [
+        0.33,
+        0.5,
+        0.5
+      ],
+      "background_tab": [
+        0.33,
+        0.5,
+        0.75
+      ]
+    }
+  }
+}

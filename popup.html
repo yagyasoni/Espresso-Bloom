@@ -1,0 +1,131 @@
+<!-- popup.html -->
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Boba Theme Selector</title>
+  <style>
+    body {
+      width: 350px;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 15px;
+      background-color: #f8f8f8;
+    }
+    
+    h1 {
+      text-align: center;
+      font-size: 20px;
+      margin-top: 20px;
+      margin-bottom: 15px;
+      color: #333;
+    }
+    
+    .theme-container {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+    
+    .theme-card {
+      border-radius: 8px;
+      overflow: hidden;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+      transition: transform 0.2s, box-shadow 0.2s;
+      cursor: pointer;
+      background-color: white;
+    }
+    
+    .theme-card:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+    }
+    
+    .theme-card.selected {
+      border: 2px solid #4285F4;
+    }
+    
+    .color-preview {
+      height: 60px;
+      display: flex;
+    }
+    
+    .color-section {
+      flex: 1;
+    }
+    
+    .theme-info {
+      padding: 10px;
+    }
+    
+    .theme-title {
+      font-weight: bold;
+      margin-bottom: 4px;
+    }
+    
+    .theme-description {
+      font-size: 12px;
+      color: #666;
+    }
+    
+    .status {
+      text-align: center;
+      margin-top: 15px;
+      padding: 8px;
+      border-radius: 4px;
+      background-color: #e8f0fe;
+      color: #4285F4;
+      display: none;
+    }
+    
+    .footer {
+      margin-top: 15px;
+      text-align: center;
+      font-size: 12px;
+      color: #666;
+    }
+    
+    .instructions {
+      margin-top: 15px;
+      padding: 10px;
+      background-color: #fff3cd;
+      border-radius: 4px;
+      font-size: 12px;
+      color: #856404;
+      display: none;
+    }
+    
+    .instructions ol {
+      margin: 10px 0 5px 20px;
+      padding: 0;
+    }
+    
+    .instructions li {
+      margin-bottom: 5px;
+    }
+  </style>
+</head>
+<body>
+  
+  <h1>Choose Your Boba Theme</h1>
+  
+  <div class="theme-container" id="themeContainer">
+    <!-- Themes will be populated by JavaScript -->
+  </div>
+  
+  <div class="status" id="status">Theme downloaded successfully!</div>
+  
+  <div class="instructions" id="instructions">
+    <strong>To install your theme:</strong>
+    <ol>
+      <li>Drag the downloaded manifest.json into <strong>chrome://extensions</strong> in Developer Mode to install.</li>
+    </ol>
+  </div>
+  
+  <div class="footer">
+    Click on a theme to download it. Follow the instructions to install.
+  </div>
+
+  <script src="popup.js"></script>
+
+</body>
+</html>
