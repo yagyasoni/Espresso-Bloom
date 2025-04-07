@@ -42,29 +42,58 @@ This extension provides customizable web enhancements, or "flavors," via downloa
 `chrome.theme` API (versions >132), direct theme application is not supported. Users select a flavor, download its configuration, and manually apply 
 it through Chrome's "Load Unpacked" feature, offering flexibility and control.
 
+
 ## Available Flavors:
 
-1.  **Flavor 1: Taro Latte**                                                                                     2.  **Flavor 2: Mocha Bliss**
+
+1.  **Taro Latte**                                                                                     
 
 
-![Screenshot (43)](https://github.com/user-attachments/assets/9769ba9c-852d-40c6-8551-3606eb37cdf5)              ![Screenshot (44)](https://github.com/user-attachments/assets/ed5937b0-3ec6-498a-acd6-db229a181064)
+![Screenshot (43)](https://github.com/user-attachments/assets/9769ba9c-852d-40c6-8551-3606eb37cdf5)          
  
 
 
 
-2.  **Flavor 2: Mocha Bliss**
+
+
+
+
+2.  **Mocha Bliss**
+
+
+![Screenshot (44)](https://github.com/user-attachments/assets/44373a44-3c34-44f9-8b41-9e1bb08f5d1e)
+
+
+
+
+
 
     
 
-3.  **Flavor 3: [Flavor Name 3]**
+3.  **Matcha Espresso**
+
+![Screenshot (45)](https://github.com/user-attachments/assets/b31e760f-12ae-4324-b117-9b502c499f3e)
 
 
 
-4.  **Flavor 4: [Flavor Name 4]**
 
-   
 
-5.  **Flavor 5: [Flavor Name 5]**
+
+
+4.  **Caramel Macchiato**
+
+![Screenshot (46)](https://github.com/user-attachments/assets/6aeaac66-ac48-4f23-a45d-7ebff9c8ea04)
+
+
+
+
+
+
+
+5.  **Brown Sugar**
+
+![Screenshot (47)](https://github.com/user-attachments/assets/8faef166-ee3b-4e7a-a29e-d460ae0824a6)
+
 
    
 
