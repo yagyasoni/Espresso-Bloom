@@ -77,7 +77,8 @@ it through Chrome's "Load Unpacked" feature, offering flexibility and control.
 
 
 ## Credits
-Created by Yagya Soni for Google Summer of Code (GSoC) 2025 under Chromium.
+Created by Yagya Soni for Google Summer of Code (GSoC) [Google Summer of Code (GSoC](#Google Summer of Code 2025) under
+[https://chromium.org/](#Chromium)
 
 
 
